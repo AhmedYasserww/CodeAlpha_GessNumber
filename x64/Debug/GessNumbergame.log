@@ -1,0 +1,3 @@
+﻿  GessNumbergame.cpp
+D:\codeforces\GessNumbergame\GessNumbergame\GessNumbergame.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GessNumbergame.vcxproj -> D:\codeforces\GessNumbergame\x64\Debug\GessNumbergame.exe
